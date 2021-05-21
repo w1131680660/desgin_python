@@ -1,0 +1,85 @@
+amazon-order-id	merchant-order-id	purchase-date	last-updated-date	order-status	fulfillment-channel	sales-channel	order-channel	url	ship-service-level	product-name	sku	asin	item-status	quantity	currency	item-price	item-tax	shipping-price	shipping-tax	gift-wrap-price	gift-wrap-tax	item-promotion-discount	ship-promotion-discount	ship-city	ship-state	ship-postal-code	ship-country	promotion-ids 
+����ѷ����id	����������	�µ�����	����������	����״̬	��������	��������			���˵���	��Ʒ����/Ʒ��	sku	asin	����״̬	�µ�����	����	��Ʒ�۸�	��Ʒ˰��								���͵�ַ	��������	���͹���	��������id
+250-5608845-4877431		2020-12-31T23:54:48+09:00	2020-12-31T23:58:54+09:00	Pending	Merchant	Amazon.co.jp			Standard	JOISCOPE �g�ݗ��Ď� �V���[�Y�{�b�N�X 1��5��10�}�X DIY�u�[�c���b�N �C�� �C���[�{�b�N�X �h�o�E�h���E�h�� ���ё΍� ��e�� �������?����	YYDIYSHOE-BAI	B07CPN8H82	Unshipped	2	JPY	7198	654								�_�ސ쌧	252-0231	JP	Amazon PLCC Free-Financing Universal Merchant JP_FORTUNECAT_PROMO_V2_new
+																												
+503-3366001-9291025	503-3366001-9291025	2020-12-31T23:42:33+09:00	2020-12-31T23:42:36+09:00	Pending	Amazon	Amazon.co.jp			Expedited	JOISCOPE ���[�I �{�I ��e�� ���[���b�N ���p�r�P�[�X �ߗގ��[�{�b�N�X �֗��� ���i16�{�b�N�X�j	YY-ZWJ-WHT16	B082WTBHHY	Unshipped	1	JPY	4880									���{	534-0027	JP	
+																												
+249-2199326-6562259	249-2199326-6562259	2020-12-31T23:19:03+09:00	2020-12-31T23:19:05+09:00	Pending	Amazon	Amazon.co.jp			Standard	"JOISCOPE �ؖڒ� �p�\�R���f�X�N PC�f�X�N ���b�N�t���f�X�N �e�����[�N �I�t�B�X�f�X�N �E�H�[���i�b�g,40�C���` "	YY-JP-LDTW40-C1	B0868MZJQ2	Unshipped	1	JPY	5999									�k�C��	062-0934	JP	JP Core Free Shipping  2016/03/29 6-38-40-593
+																												
+503-5351844-8128662	503-5351844-8128662	2020-12-31T23:17:50+09:00	2020-12-31T23:17:52+09:00	Pending	Amazon	Amazon.co.jp			Standard	JOISCOPE ���[�I �{�I ��e�� ���[���b�N ���p�r�P�[�X �ߗގ��[�{�b�N�X �֗��� ���i9�{�b�N�X�j	YY-ZWJ-WHT9	B082WST3SB	Unshipped	1	JPY	3380									�O�d��	512-8063	JP	JP Core Free Shipping  2016/03/29 6-38-40-593
+																												
+249-3403317-7031044	249-3403317-7031044	2020-12-31T22:28:55+09:00	2020-12-31T22:28:59+09:00	Pending	Amazon	Amazon.co.jp			Standard	"JOISCOPE �ؖڒ� �p�\�R���f�X�N PC�f�X�N ���b�N�t���f�X�N �e�����[�N �I�t�B�X�f�X�N �E�H�[���i�b�g,40�C���` "	YY-JP-LDTW40-C1	B0868MZJQ2	Unshipped	1	JPY	5999									���?305-0031	JP	JP Core Free Shipping  2016/03/29 6-38-40-593	
+																												
+503-0829383-2215005		2020-12-31T22:02:13+09:00	2020-12-31T22:02:52+09:00	Pending	Merchant	Amazon.co.jp			Standard	JOISCOPE �g�ݗ��Ď� �V���[�Y�{�b�N�X 1��5��10�}�X DIY�u�[�c���b�N �C�� �C���[�{�b�N�X �h�o�E�h���E�h�� ���ё΍� ��e�� �������?����	YYDIYSHOE-BAI	B07CPN8H82	Unshipped	1	JPY	3599	327								���{	550-0025	JP	Amazon PLCC Free-Financing Universal Merchant JP_FORTUNECAT_PROMO_V2_new
+																												
+503-2909856-1170224		2020-12-31T21:40:36+09:00	2020-12-31T21:52:49+09:00	Pending	Merchant	Amazon.co.jp			Standard	JOISCOPE ���[�h���[�u �g�ݗ��Ď� ���[�{�b�N�X ���t�� ���[�I �ߗގ��[ �m�����[���b�N  �h�o�E�h���E�h�� 110x181x45cm ��e�� ���� 15	YY-YG-WHT16	B0734P8DT8	Unshipped	1	JPY	6699	609								�����s	116-0012	JP	Amazon PLCC Free-Financing Universal Merchant JP_FORTUNECAT_PROMO_V2_new
+																												
+250-3639639-1655819	250-3639639-1655819	2020-12-31T21:26:14+09:00	2020-12-31T21:26:17+09:00	Pending	Amazon	Amazon.co.jp			Expedited	"JOISCOPE �ؖڒ� �p�\�R���f�X�N PC�f�X�N ���b�N�t���f�X�N �e�����[�N �I�t�B�X�f�X�N �E�H�[���i�b�g,40�C���` "	YY-JP-LDTW40-C1	B0868MZJQ2	Unshipped	1	JPY	5999									�����s	153-0042	JP	
+																												
+250-3734259-1546267	250-3734259-1546267	2020-12-31T21:24:59+09:00	2020-12-31T21:25:02+09:00	Pending	Amazon	Amazon.co.jp			Expedited	JOISCOPE �{�I ���[�I ��e�� �����I �X�y�[�X�ߖ� ���[���b�N ���p�r�P�[�X ���^�����b�N �ߗގ��[�{�b�N�X �֗�	YY-TW-WH12	B08CZBCWS8	Unshipped	1	JPY	4580									���m��	491-0013	JP	
+																												
+503-6974953-0849466	503-6974953-0849466	2020-12-31T21:04:39+09:00	2020-12-31T21:04:42+09:00	Pending	Amazon	Amazon.co.jp			Expedited	"JOISCOPE �ؖڒ� �p�\�R���f�X�N PC�f�X�N ���b�N�t���f�X�N �e�����[�N �I�t�B�X�f�X�N �E�H�[���i�b�g,40�C���` "	YY-JP-LDTW40-C1	B0868MZJQ2	Unshipped	1	JPY	5999									�����s	196-0024	JP	
+																												
+249-8997017-8187850	249-8997017-8187850	2020-12-31T20:59:53+09:00	2020-12-31T20:59:56+09:00	Pending	Amazon	Amazon.co.jp			Expedited	JOISCOPE �m�����[���b�N ���Ɣ���8�� DIY �N���[�[�b�g �g�ݗ��Ď� ���[�h���[�u ���[�{�b�N�X ��e�� �������? 	DIYW-QINGs8	B077M9DXK3	Unshipped	1	JPY	4499									���{	574-0015	JP	
+																												
+249-5645184-6489434	249-5645184-6489434	2020-12-31T20:24:51+09:00	2020-12-31T20:24:54+09:00	Pending	Amazon	Amazon.co.jp			Expedited	"JOISCOPE �ؖڒ� �p�\�R���f�X�N PC�f�X�N ���b�N�t���f�X�N �e�����[�N �I�t�B�X�f�X�N �E�H�[���i�b�g,40�C���` "	YY-JP-LDTW40-C1	B0868MZJQ2	Unshipped	1	JPY	5999									��ʌ�?339-0042	JP		
+																												
+503-6885350-8080649	503-6885350-8080649	2020-12-31T20:07:22+09:00	2020-12-31T20:07:25+09:00	Pending	Amazon	Amazon.co.jp			Expedited	"JOISCOPE �ؖڒ� �p�\�R���f�X�N PC�f�X�N ���b�N�t���f�X�N �e�����[�N �I�t�B�X�f�X�N �E�H�[���i�b�g,40�C���` "	YY-JP-LDTW40-C1	B0868MZJQ2	Unshipped	1	JPY	5999									�����s	153-0044	JP	
+																												
+503-2966078-6384644		2020-12-31T19:50:03+09:00	2020-12-31T19:53:00+09:00	Pending	Merchant	Amazon.co.jp			Standard	JOISCOPE ���[�h���[�u �g�ݗ��Ď� ���[�{�b�N�X ���t�� ���[�I �ߗގ��[ �m�����[���b�N  �h�o�E�h���E�h�� 75x145x45cm ��e�� ���� 8	YY-YG-WHT8	B0734Q511Z	Unshipped	1	JPY	4499	409								�����s	125-0041	JP	Amazon PLCC Free-Financing Universal Merchant JP_FORTUNECAT_PROMO_V2_new
+																												
+503-3316652-3747862	503-3316652-3747862	2020-12-31T19:48:23+09:00	2020-12-31T19:49:36+09:00	Pending	Amazon	Amazon.co.jp			Expedited	"JOISCOPE �ؖڒ� �p�\�R���f�X�N PC�f�X�N ���b�N�t���f�X�N �e�����[�N �I�t�B�X�f�X�N �E�H�[���i�b�g,40�C���` "	YY-JP-LDTW40-C1	B0868MZJQ2	Unshipped	1	JPY	5999									Kanagawa-ken	212-0055	JP	
+																												
+503-4852409-2539821	503-4852409-2539821	2020-12-31T19:10:51+09:00	2020-12-31T19:10:56+09:00	Pending	Amazon	Amazon.co.jp			Expedited	JOISCOPE �{�I ���[�I ��e�� �����I �X�y�[�X�ߖ� ���[���b�N ���p�r�P�[�X ���^�����b�N �ߗގ��[�{�b�N�X �֗�	YY-TW-BK9	B082WTGV6S	Unshipped	1	JPY	3880									��t��	299-1104	JP	
+																												
+250-2405445-3615845	250-2405445-3615845	2020-12-31T18:42:54+09:00	2020-12-31T18:42:57+09:00	Pending	Amazon	Amazon.co.jp			Expedited	"JOISCOPE �ؖڒ� �p�\�R���f�X�N PC�f�X�N ���b�N�t���f�X�N �e�����[�N �I�t�B�X�f�X�N �E�H�[���i�b�g,40�C���` "	YY-JP-LDTW40-C1	B0868MZJQ2	Unshipped	1	JPY	5999									�����s	157-0072	JP	
+																												
+503-2107874-9516668	503-2107874-9516668	2020-12-31T18:14:41+09:00	2020-12-31T18:14:44+09:00	Pending	Amazon	Amazon.co.jp			Expedited	JOISCOPE �g�ݗ��Ď� �V���[�Y�{�b�N�X 1��5��10�}�X DIY�u�[�c���b�N �C�� �C���[�{�b�N�X �h�o�E�h���E�h�� ���� 	NSR-WHTBLK3/5	B07DZXFZ1Z	Unshipped	2	JPY	7198									�򕌌�	503-0914	JP	
+																												
+503-4736436-4647836	503-4736436-4647836	2020-12-31T18:01:05+09:00	2020-12-31T18:02:27+09:00	Pending	Amazon	Amazon.co.jp			Expedited	"JOISCOPE �ؖڒ� �p�\�R���f�X�N PC�f�X�N ���b�N�t���f�X�N �e�����[�N �I�t�B�X�f�X�N �E�H�[���i�b�g,40�C���` "	YY-JP-LDTW40-C1	B0868MZJQ2	Unshipped	1	JPY	5999									�_�ސ쌧	213-0006	JP	
+																												
+249-9521185-7258206	249-9521185-7258206	2020-12-31T17:40:43+09:00	2020-12-31T17:40:46+09:00	Pending	Amazon	Amazon.co.jp			Standard	JOISCOPE �{�I ���[�I ��e�� �����I �X�y�[�X�ߖ� ���[���b�N ���p�r�P�[�X ���^�����b�N �ߗގ��[�{�b�N�X �֗�	YY-TW-BK12	B08CZ5K285	Unshipped	1	JPY	4580									�����s	179-0084	JP	JP Core Free Shipping  2016/03/29 6-38-40-593
+																												
+250-9649599-0653469		2020-12-31T17:25:54+09:00	2020-12-31T17:30:22+09:00	Pending	Merchant	Amazon.co.jp			Standard	JOISCOPE ���[�h���[�u �g�ݗ��Ď� ���[�{�b�N�X ���t�� ���[�I �ߗގ��[ �m�����[���b�N  �h�o�E�h���E�h�� 110x145x45cm ��e�� ���� 12	YY-YG-WHT12	B0734LVYTX	Unshipped	1	JPY	5799	527								���Ɍ�	670-0811	JP	Amazon PLCC Free-Financing Universal Merchant JP_FORTUNECAT_PROMO_V2_new
+																												
+250-5070882-0375043		2020-12-31T17:06:16+09:00	2020-12-31T17:10:16+09:00	Pending	Merchant	Amazon.co.jp			Standard	MIXED JOISCOPE �g�ݗ��Ď� �V���[�Y�{�b�N�X DIY�u�[�c���b�N �C�� �C���[�{�b�N�X �h�o�E�h���E�h�� ���ё΍� ��e�� �������?�� 2*7 White	NSR-WHT2/7	B07DZWTV44	Unshipped	1	JPY	4399	400								���m��	467-0027	JP	Amazon PLCC Free-Financing Universal Merchant JP_FORTUNECAT_PROMO_V2_new
+																												
+503-1197164-8165413		2020-12-31T16:42:46+09:00	2020-12-31T16:43:15+09:00	Pending	Merchant	Amazon.co.jp			Standard	MIXED JOISCOPE �g�ݗ��Ď� �V���[�Y�{�b�N�X DIY�u�[�c���b�N �C�� �C���[�{�b�N�X �h�o�E�h���E�h�� ���ё΍� ��e�� �������?�� 2*7 White	NSR-WHT2/7	B07DZWTV44	Unshipped	1	JPY	4399	400								���m��	451-0043	JP	
+																												
+503-2612100-6610226		2020-12-31T15:54:52+09:00	2020-12-31T15:59:59+09:00	Pending	Merchant	Amazon.co.jp			Standard	JOISCOPE ���[�h���[�u �g�ݗ��Ď� ���[�{�b�N�X ���t�� ���[�I �ߗގ��[ �m�����[���b�N  �h�o�E�h���E�h�� 110x181x45cm ��e�� ���� 15	YY-YG-WHT16	B0734P8DT8	Unshipped	1	JPY	6699	609								���{	557-0014	JP	Amazon PLCC Free-Financing Universal Merchant JP_FORTUNECAT_PROMO_V2_new
+																												
+250-9361836-8395837	250-9361836-8395837	2020-12-31T14:58:20+09:00	2020-12-31T15:00:14+09:00	Pending	Amazon	Amazon.co.jp			Expedited	"JOISCOPE �ؖڒ� �p�\�R���f�X�N PC�f�X�N ���b�N�t���f�X�N �e�����[�N �I�t�B�X�f�X�N �E�H�[���i�b�g,40�C���` "	YY-JP-LDTW40-C1	B0868MZJQ2	Unshipped	1	JPY	5999									���?023-1102	JP		
+																												
+503-8597531-6915055	503-8597531-6915055	2020-12-31T14:53:01+09:00	2020-12-31T15:28:16+09:00	Pending	Amazon	Amazon.co.jp			Expedited	JOISCOPE �m�����[���b�N ���Ɣ���8�� DIY �N���[�[�b�g �g�ݗ��Ď� ���[�h���[�u ���[�{�b�N�X ��e�� �������? 	DIYW-QINGs8	B077M9DXK3	Unshipped	1	JPY	4499									Tokyo-to	113-0022	JP	
+																												
+503-2667158-5741452	503-2667158-5741452	2020-12-31T14:50:14+09:00	2020-12-31T14:51:03+09:00	Cancelled	Amazon	Amazon.co.jp			Expedited	JOISCOPE �m�����[���b�N ���Ɣ���8�� DIY �N���[�[�b�g �g�ݗ��Ď� ���[�h���[�u ���[�{�b�N�X ��e�� �������? 	DIYW-QINGs8	B077M9DXK3	Cancelled	0											Tokyo-to	113-0022	JP	
+																												
+249-2286595-8136623		2020-12-31T14:20:40+09:00	2020-12-31T14:22:12+09:00	Pending	Merchant	Amazon.co.jp			Standard	JOISCOPE �g�ݗ��Ď� �V���[�Y�{�b�N�X 1��5��10�}�X DIY�u�[�c���b�N �C�� �C���[�{�b�N�X �h�o�E�h���E�h�� ���ё΍� ��e�� �������?����	YYDIYSHOE-BAI	B07CPN8H82	Unshipped	1	JPY	3599	327								�����s	143-0021	JP	Amazon PLCC Free-Financing Universal Merchant JP_FORTUNECAT_PROMO_V2_new
+																												
+250-0727329-9295812		2020-12-31T14:12:10+09:00	2020-12-31T14:16:45+09:00	Pending	Merchant	Amazon.co.jp			Standard	JOISCOPE �g�ݗ��Ď� �V���[�Y�{�b�N�X DIY�u�[�c���b�N �C�� �C���[�{�b�N�X �h�o�E�h���E�h�� ���ё΍� ��e�� �������?�� 3*7	NSR-TMWHT3/7	B086L2J9BQ	Unshipped	1	JPY	5999	545								Shizuoka-ken	437-1121	JP	Amazon PLCC Free-Financing Universal Merchant JP_FORTUNECAT_PROMO_V2_new
+																												
+249-6388687-0453447	249-6388687-0453447	2020-12-31T13:58:51+09:00	2020-12-31T13:58:54+09:00	Pending	Amazon	Amazon.co.jp			Expedited	JOISCOPE �g�ݗ��Ď� �V���[�Y�{�b�N�X DIY�u�[�c���b�N �C�� �C���[�{�b�N�X �h�o�E�h���E�h�� ���ё΍� ��e��  	NSR-WHTBLK2/7	B07DZRRL4Y	Unshipped	1	JPY	4399									���{	571-0043	JP	
+																												
+503-0462333-0436626		2020-12-31T13:08:03+09:00	2020-12-31T13:11:37+09:00	Pending	Merchant	Amazon.co.jp			Standard	JOISCOPE �g�ݗ��Ď� �V���[�Y�{�b�N�X 1��5��10�}�X DIY�u�[�c���b�N �C�� �C���[�{�b�N�X �h�o�E�h���E�h�� ���ё΍� ��e�� �������?����	YYDIYSHOE-BAI	B07CPN8H82	Unshipped	1	JPY	3599	327								���ꌧ	526-0105	JP	Amazon PLCC Free-Financing Universal Merchant JP_FORTUNECAT_PROMO_V2_new
+																												
+503-7871729-3686219		2020-12-31T12:49:16+09:00	2020-12-31T12:54:42+09:00	Pending	Merchant	Amazon.co.jp			Standard	JOISCOPE �m�����[���b�N ���Ɣ���20�� DIY �N���[�[�b�g �g�ݗ��Ď� ���[�h���[�u ���[�{�b�N�X ��e�� �������?���[�I �h�o�E�h���E�h��	DIYW-QINGs20	B077MCF5XR	Unshipped	1	JPY	8299	754								������	960-8057	JP	Amazon PLCC Free-Financing Universal Merchant JP_FORTUNECAT_PROMO_V2_new
+																												
+250-6134912-1946244	250-6134912-1946244	2020-12-31T12:39:32+09:00	2020-12-31T12:39:35+09:00	Pending	Amazon	Amazon.co.jp			Expedited	JOISCOPE �m�����[���b�N ���Ɣ���12�� DIY �N���[�[�b�g �g�ݗ��Ď� ���[�h���[�u ���[�{�b�N�X ��e�� �������? 	DIYW-QINGs12	B077MBPM1Q	Unshipped	1	JPY	5799									�����s	133-0053	JP	
+																												
+503-1302535-7104607		2020-12-31T12:38:20+09:00	2020-12-31T12:43:02+09:00	Pending	Merchant	Amazon.co.jp			Standard	JOISCOPE ���[�h���[�u �g�ݗ��Ď� ���[�{�b�N�X ���t�� ���[�I �ߗގ��[ �m�����[���b�N  �h�o�E�h���E�h�� 75x145x45cm ��e�� ���� 8	YY-YG-WHT8	B0734Q511Z	Unshipped	1	JPY	4499	409								���ꌧ	523-0894	JP	Amazon PLCC Free-Financing Universal Merchant JP_FORTUNECAT_PROMO_V2_new
+																												
+250-2134389-3443812	250-2134389-3443812	2020-12-31T12:18:54+09:00	2020-12-31T12:18:57+09:00	Pending	Amazon	Amazon.co.jp			Standard	"JOISCOPE �ؖڒ� �p�\�R���f�X�N PC�f�X�N ���b�N�t���f�X�N �e�����[�N �I�t�B�X�f�X�N �E�H�[���i�b�g,40�C���` "	YY-JP-LDTW40-C1	B0868MZJQ2	Unshipped	1	JPY	5999									�R����	745-0851	JP	JP Core Free Shipping  2016/03/29 6-38-40-593
+																												
+249-2516719-3615031	249-2516719-3615031	2020-12-31T11:47:29+09:00	2020-12-31T11:47:34+09:00	Pending	Amazon	Amazon.co.jp			Standard	JOISCOPE ���[�I �{�I ��e�� ���[���b�N ���p�r�P�[�X �ߗގ��[�{�b�N�X �֗��� ���i6�{�b�N�X�j	YY-ZWJ-BK6	B082WTBBPS	Unshipped	1	JPY	2480									���{	567-0833	JP	JP Core Free Shipping  2016/03/29 6-38-40-593
+																												
+249-6469255-1479831	249-6469255-1479831	2020-12-31T11:45:46+09:00	2020-12-31T11:45:52+09:00	Pending	Amazon	Amazon.co.jp			Standard	JOISCOPE �N���[�[�b�g ��e�� �s���N&�� �N���[�[�b�g ���[�{�b�N�X �g�ݗ��Ď� ���[ ���[�I �h�o�E�h���E�h��  	YYDIYW-HMWs20	B077MCPV2D	Unshipped	1	JPY	8299									Gunma-ken	370-1127	JP	JP Core Free Shipping  2016/03/29 6-38-40-593
+																												
+503-8470424-0199010		2020-12-31T11:08:19+09:00	2020-12-31T11:08:47+09:00	Pending	Merchant	Amazon.co.jp			Standard	JOISCOPE �g�ݗ��Ď� �V���[�Y�{�b�N�X DIY�u�[�c���b�N �C�� �C���[�{�b�N�X �h�o�E�h���E�h�� ���ё΍� ��e�� �������?�� 2*7	NSR-TMWHT2/7	B086KTDFF9	Unshipped	1	JPY	4399	400								�F�{��	866-0892	JP	
+																												
+503-5577298-7300646	503-5577298-7300646	2020-12-31T10:28:30+09:00	2020-12-31T16:13:36+09:00	Shipped	Amazon	Amazon.co.jp			Expedited	JOISCOPE ���[�I �{�I ��e�� ���[���b�N ���p�r�P�[�X �ߗގ��[�{�b�N�X �֗��� ���i16�{�b�N�X�j	YY-ZWJ-WHT16	B082WTBHHY	Shipped	1	JPY	4880	444								Tokyo-to	106-0046	JP	
+																												
+503-7832662-5905451	503-7832662-5905451	2020-12-31T08:28:02+09:00	2020-12-31T08:28:05+09:00	Pending	Amazon	Amazon.co.jp			Expedited	JOISCOPE �g�ݗ��Ď� �V���[�Y�{�b�N�X 1��5��10�}�X DIY�u�[�c���b�N �C�� �C���[�{�b�N�X �h�o�E�h���E�h�� ���� 	NSR-WHTBLK3/5	B07DZXFZ1Z	Unshipped	2	JPY	7198									�����s	174-0043	JP	
+																												
+249-7982738-6679034		2020-12-31T02:27:04+09:00	2020-12-31T02:32:27+09:00	Pending	Merchant	Amazon.co.jp			Standard	JOISCOPE ���[�{�b�N�X ���t�� ���[�I �ߗގ��[���b�N �g�ݗ��Ď� �_���X �������?110x145x45cm ��e�� ���� 12	YY-YG-BLKWHT12	B08395CHX7	Unshipped	1	JPY	5799	527								�_�ސ쌧	240-0002	JP	Amazon PLCC Free-Financing Universal Merchant JP_FORTUNECAT_PROMO_V2_new
+																												
+249-3216822-9741403	249-3216822-9741403	2020-12-31T00:16:52+09:00	2020-12-31T14:47:50+09:00	Shipped	Amazon	Amazon.co.jp			Expedited	"JOISCOPE �ؖڒ� �p�\�R���f�X�N PC�f�X�N ���b�N�t���f�X�N �e�����[�N �I�t�B�X�f�X�N �E�H�[���i�b�g,40�C���` "	YY-JP-LDTW40-C1	B0868MZJQ2	Shipped	1	JPY	5999	545								��t��	272-0815	JP	

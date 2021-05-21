@@ -1,0 +1,245 @@
+/*默认样式*/
+
+html,
+body,
+div,
+ul,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+dl,
+dt,
+dd,
+ol,
+form,
+input,
+textarea,
+th,
+td,
+select {
+    margin: 0;
+    padding: 0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    min-height: 100%;
+}
+
+body {
+    font-family: "Microsoft YaHei";
+    /* font-size: 0.3rem; */
+    color: #333;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: normal;
+}
+
+ul,
+ol {
+    list-style: none;
+}
+
+img {
+    border: none;
+    vertical-align: middle;
+}
+
+
+/* 所有按钮统一的样式 */
+
+.all_style {
+    border: 1px solid #dcdfe6;
+    text-align: center;
+    border-radius: 4px;
+    font-weight: 500;
+    display: inline-block;
+    white-space: nowrap;
+    font-size: 14px;
+    color: #fff;
+    text-decoration: none;
+}
+
+.all_style:hover {
+    cursor: pointer;
+    color: #fff;
+    text-decoration: none;
+}
+
+
+/* 上传，提交，下载按钮 */
+
+.up_btn {
+    background-color: #409EFF;
+    border-color: #409EFF;
+}
+
+.up_btn:hover {
+    background: #66b1ff;
+    border-color: #66b1ff;
+}
+
+
+/* 删除按钮 */
+
+.del_btn {
+    background-color: #F56C6C;
+    border-color: #F56C6C;
+}
+
+.del_btn:hover {
+    background: #f78989;
+    border-color: #f78989;
+}
+
+
+/* 编辑，修改按钮 */
+
+.edit_btn {
+    background-color: #E6A23C;
+    border-color: #E6A23C;
+}
+
+.edit_btn:hover {
+    background-color: #ebb563;
+    border-color: #ebb563;
+}
+
+
+/* 审核通过按钮 */
+
+.pass_btn {
+    background-color: #67C23A;
+    border-color: #67C23A;
+}
+
+.pass_btn:hover {
+    background-color: #85ce61;
+    border-color: #85ce61;
+}
+
+/* 查看信息按钮 */
+.news_btn {
+    background-color: #909399;
+    border-color: #909399;
+}
+
+.news_btn:hover {
+    background: #a6a9ad;
+    border-color: #a6a9ad;
+}
+
+
+/* 左边导航栏提交，检索按钮 */
+
+.beside_up_btn {
+    border: 1px solid #dcdfe6;
+    color: #606266;
+    background-color: #fff;
+}
+
+.beside_up_btn:hover {
+    background: #fff;
+    border-color: #409eff;
+    color: #409eff;
+}
+
+/* 朴素按钮 */
+
+/* 上传，点击，下载等 */
+.up_btn1_simple {
+    color: #409eff;
+    background: #ecf5ff;
+    border-color: #b3d8ff;
+}
+
+.up_btn1_simple:hover {
+    background: #409eff;
+    border-color: #409eff;
+    color: #fff;
+}
+
+/* 删除 */
+.del_btn_simple {
+    color: #f56c6c;
+    background: #fef0f0;
+    border-color: #fbc4c4;
+}
+
+.del_btn_simple:hover {
+    background: #f56c6c;
+    border-color: #f56c6c;
+    color: #fff;
+}
+
+/* 编辑，修改按钮等 */
+.edit_btn_simple {
+    color: #e6a23c;
+    background: #fdf6ec;
+    border-color: #f5dab1;
+}
+
+.edit_btn_simple:hover {
+    background: #e6a23c;
+    border-color: #e6a23c;
+    color: #fff;
+}
+
+/* 成功 通过等按钮 */
+.pass_btn_simple {
+    color: #67c23a;
+    background: #f0f9eb;
+    border-color: #c2e7b0;
+}
+
+.pass_btn_simple:hover {
+    background: #67c23a;
+    border-color: #67c23a;
+    color: #fff;
+}
+
+/* 查看信息按钮 */
+.news_btn_simple {
+    color: #909399;
+    background: #f4f4f5;
+    border-color: #d3d4d6;
+}
+
+.news_btn_simple:hover {
+    background: #909399;
+    border-color: #909399;
+    color: #fff;
+}
+
+/* 设置滚动条的大小 */
+::-webkit-scrollbar {
+    width:9px;
+    height: 9px;
+}
+
+    /* 滚动条滑块 */
+::-webkit-scrollbar-thumb {
+    border-radius:5px;
+    background-color:#dddddd;
+    background-clip:padding-box;
+    min-height:150px; 
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color:#bbb; 
+}

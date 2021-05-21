@@ -1,0 +1,1 @@
+*/1 * * * * /usr/local/bin/python3 /home/by_operate/manage.py crontab run 8dc326789ca7f7e5a9f478d72faf575c >>/home/by_operate/store_management/test.log # django-cronjobs for by_operate
